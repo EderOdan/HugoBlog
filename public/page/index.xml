@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on 青鸟Odan的小窝</title>
+    <link>https://ederodan.com/page/</link>
+    <description>Recent content in Pages on 青鸟Odan的小窝</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ederodan.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>归档</title>
+      <link>https://ederodan.com/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ederodan.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://ederodan.com/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ederodan.com/about/</guid>
+      <description>兴趣爱好 吹口琴、摄影
+关于自己 小的时候热衷于用RPGMaker做各种小游戏，梦想当一个游戏开发者。后来高中学了PS、Maya，想当一个设计师。大一努力学习转到了现在的媒体系，学习了摄影，做了一年多的影视民工。后来随大流学编程，尝试过炼丹，最终自己不合适或者说不喜欢，兜兜转转又回到了做游戏。
+从高二就开始写博客了，网站也从WP换成hexo换成hugo，服务器从国外服务器换成阿里云换成腾讯云换成githubpage。曾经写过很多东西，也删了很多东西。目标是这个博客可以多写写。</description>
+    </item>
+    
+    <item>
+      <title>搜索</title>
+      <link>https://ederodan.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ederodan.com/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
